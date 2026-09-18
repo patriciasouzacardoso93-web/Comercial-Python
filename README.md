@@ -7,5 +7,5 @@ Pipeline automatizado em Python para tratamento de dados, auditoria de inconsist
 * **Git** para controlo de versão
 
 ## Visualizações de Dados
-![Tendência Mensal](tendencia_vendas_mensal.png)
-![Distribuição por Estabelecimento](percentagem_estabelecimentos.png)
+![Tendência Mensal](PYTHON/tendencia_vendas_mensal.png)
+![Distribuição por Estabelecimento](PYTHON/percentagem_estabelecimentos.png)
