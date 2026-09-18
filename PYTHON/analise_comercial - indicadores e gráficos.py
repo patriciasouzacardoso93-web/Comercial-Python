@@ -125,3 +125,4 @@ def gerar_portfolio_comercial():
 
 if __name__ == '__main__':
   gerar_portfolio_comercial()
+  
